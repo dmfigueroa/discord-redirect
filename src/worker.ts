@@ -1,5 +1,5 @@
 export default {
 	async fetch(_request: Request, _env: Env, _ctx: ExecutionContext): Promise<Response> {
-		return Response.redirect('https://discord.gg/3FRwSR5d');
+		return Response.redirect('https://discord.gg/yYskTMZx4B');
 	},
 };
